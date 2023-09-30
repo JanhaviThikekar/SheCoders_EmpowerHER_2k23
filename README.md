@@ -1,7 +1,5 @@
 # SheCoders_EmpowerHER_2k23
 
-# Empowher Projects README
-
 ## *Harnessing the Power of Language: NLP-Driven Post Categorization*
 Unlock the potential of Natural Language Processing (NLP) in categorizing posts and diving into diverse content segments.
 Pre-trained NLP Model
